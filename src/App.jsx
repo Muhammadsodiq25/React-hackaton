@@ -1,6 +1,11 @@
+import Abdulaziz from "./pages/abdulaziz/Abdulaziz";
 
 const App = () => {
-  return <div></div>;
+  return (
+    <div>
+      <Abdulaziz />
+    </div>
+  );
 };
 
 export default App;
