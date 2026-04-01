@@ -1,0 +1,99 @@
+
+
+.dashboard-rep{
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    margin-top: 25px;
+    border-radius: 25px;
+    background-color: white;
+    border: 10px;
+    border-color: black;
+}
+
+.fist-part , .second-part , .third-part , .fourth-part {
+    background-color:#FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 300px;
+    height: 100px;
+}
+
+.btn{
+    background-color:#ECF2FF;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.dash-menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+
+
+.dash-chart{
+    margin-top: 100px;
+     border-radius: 25px;
+     background-color: white;
+     border: 10px;
+     border-color: black;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     flex-direction: column;
+
+}
+
+
+.dash-chart-info{
+    display: flex;
+ align-items: center;
+ justify-content: space-between;
+ width: 700px;
+
+
+}
+
+.chart-arrow{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+.dash-cart-info2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top:20px;
+    width: 700px;
+}
+.cardes{
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+
+
+.carts{
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 25px;
+    background-color: white;
+
+}
+.carts img {
+    width: 36px;
+    height: 36px;
+    border-radius: 20px;
+}
