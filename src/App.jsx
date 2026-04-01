@@ -1,4 +1,3 @@
-import Dashboard from "./pages/akbarshox/Dashboard";
 import { Route, Routes } from "react-router-dom";
 import Header from "./components/header/Header";
 import Sidebar from "./components/sidebar/Sidebar";
