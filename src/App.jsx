@@ -1,3 +1,10 @@
+import Dashboard from "./pages/akbarshox/Dashboard";
+
+const App = () => {
+  return <div>
+
+
+  </div>;
 import { Route, Routes } from "react-router-dom";
 import Header from "./components/header/Header";
 import Sidebar from "./components/sidebar/Sidebar";
