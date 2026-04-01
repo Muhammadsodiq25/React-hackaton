@@ -1,11 +1,6 @@
-import Products from "./pages/abdulbosit/Products";
 
 const App = () => {
-  return (
-    <div>
-      <Products />
-    </div>
-  );
+  return <div></div>;
 };
 
 export default App;
